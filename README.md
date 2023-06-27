@@ -1,4 +1,4 @@
-# template-onepage
+# Onepage Template - Free to Use
 <h3 title="welcome"> Welcome 👋</h3>
 
 **Sleek and modern single-page website template designed to provide a smooth and immersive user experience.**
