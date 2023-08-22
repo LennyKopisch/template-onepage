@@ -1,4 +1,3 @@
-           
 const doParticles = true;
 
 const getWidth = () => { 
